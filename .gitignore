@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+*.log
+.env
+.env.local
+**/appsettings*.json
+!**/appsettings.example.json
+**/bin/
+**/obj/
+.vscode/
+.DS_Store

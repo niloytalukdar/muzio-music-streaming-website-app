@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Muzio.Api/Muzio.Api.csproj" />
+    <Project Path="src/Muzio.Application/Muzio.Application.csproj" />
+    <Project Path="src/Muzio.Domain/Muzio.Domain.csproj" />
+    <Project Path="src/Muzio.Infrastructure/Muzio.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Muzio.IntegrationTests/Muzio.IntegrationTests.csproj" />
+    <Project Path="tests/Muzio.UnitTests/Muzio.UnitTests.csproj" />
+  </Folder>
+</Solution>
